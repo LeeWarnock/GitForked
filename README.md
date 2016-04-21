@@ -1,2 +1,2 @@
 # GitForked
-Don't make this awkard
+Don't make this awkward
